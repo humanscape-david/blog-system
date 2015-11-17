@@ -1,7 +1,5 @@
-<?php 
-
-# app
-include 'app/index.php';
-
-$app = new App();
-
+<?php
+require 'application/config/config.php';
+require 'application/libs/application.php';
+require 'application/libs/controller.php';
+$app = new Application();
