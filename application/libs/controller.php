@@ -2,11 +2,13 @@
 
 class Controller
 {
-	# 주인정보설정
-	public $name;
+	# 내 이름 설정
+	public $name = "홍길동";
+	# 내 소개 설정
+	public $intro = "시간이 금이다.";
 
-	public function __construct()
+	function __construct()
 	{
-		$this->name = "홍길동";
+		
 	}
 }
