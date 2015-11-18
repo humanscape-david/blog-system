@@ -11,8 +11,8 @@
 	<div class="wrapper">
 		<div class="header">
 			<div class="nav">
-				<a href="/">홍길동</a>
-				<a href="/board/">홍길동 글</a>
+				<a href="/">홈</a>
+				<a href="/board/">글</a>
 			</div>
 		</div>
 		<div class="container">

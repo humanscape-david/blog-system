@@ -1,5 +1,3 @@
-<h2>여기는 게시판 글 쓰기(board/write)입니다.</h2>
-<p>이 페이지는 http://127.0.0.1/board/write/ 와 같이 접근할 수 있습니다.</p>
 <div class="board-write">
 	<form>
 		<p>글제목 : <input type="text" name="title" id="title" style="width:300px;"></p>

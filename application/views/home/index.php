@@ -5,7 +5,7 @@
 	<div id="my_intro_container">
 		<div id="my_intro">
 			<? echo $name;?><br><br>
-			<? echo $intro;?>
+			<? echo INTRO;?>
 		</div>
 	</div>
 </div>
