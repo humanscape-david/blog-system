@@ -22,12 +22,26 @@
 	background-color:#333;
 	color:#fff;
 }
+.nav {
+	width: 100%;
+	background-color:#828282;
+	text-align: center;
+}
+
+.footer {
+	width:100%;
+	height:30px;
+	line-height:30px;
+	background-color:#ddd;
+	text-align:center;
+}
 
 .container {
 	width:100%;
 	min-height:350px;
 }
 
+/*my profile*/
 #my_img_container{
 	padding: 20px;
 }
@@ -42,16 +56,37 @@
 	text-align: center;
 }
 
-.nav {
-	width: 100%;
-	background-color:#828282;
-	text-align: center;
+/*write*/
+#write_container {
+
+}
+#write_content {
+
 }
 
-.footer {
-	width:100%;
-	height:30px;
-	line-height:30px;
-	background-color:#ddd;
-	text-align:center;
+#write_box {
+	margin-right: 10px
 }
+
+#write_input {
+	float: left;
+	width: 85%;
+	min-height: 30px;
+	border-radius: 1em;
+}
+
+#write_submit {
+	width: 13%;
+	height: 30px;
+	float: right;
+	border-radius: 1em;
+}
+
+/*list*/
+#list_container{}
+.list_wrapper{}
+.list_left{}
+.list_num{}
+.list_date{}
+.list_right{}
+.list_content{}

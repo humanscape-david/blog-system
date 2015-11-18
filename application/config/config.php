@@ -1,6 +1,11 @@
 <?php
+# 환경설정을 해주는 파일입니다.
 error_reporting(E_ALL);
 ini_set("display_errors", 1);
 define('URL', 'http://127.0.0.1/');
-define('INTRO','잊지말자 나는');
+
+# 개인정보 설정
+define('NAME','이름을 입력해주세요.');
+define('INTRO','자기소개를 입력해주세요.');
+
 # 디비설정
