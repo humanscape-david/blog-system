@@ -10,6 +10,9 @@ session_start();
 	<meta name="viewport" content="width=device-width, initial-scale=1.0">
 	<link href="../public/css/basic_style.css" rel="stylesheet">
 	<script src="../public/js/basic.js"></script>
+	<script>
+		var pass = "<?php echo PASSWORD;?>";
+	</script>
 </head>
 <body>
 	<div class="wrapper">
