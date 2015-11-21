@@ -1,6 +1,6 @@
 <div id="my_container">
 	<div id="my_img_container">
-		<center><img id="my_img" src="../public/img/my_img.png" alt=""></center>
+		<center><img id="my_img" src="../public/img/my_img.png" onclick="login(blog)" alt=""></center>
 	</div>
 	<div id="my_intro_container">
 		<div id="my_intro">
